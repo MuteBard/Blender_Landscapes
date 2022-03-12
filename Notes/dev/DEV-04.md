@@ -8,13 +8,11 @@
 
 ![](../images/DEV-04/DEV-04-A2.png)
 
-
 ## Cutting Node connections
 
 ![](../images/DEV-04/DEV-04-A3.png)
 
 ![](../images/DEV-04/DEV-04-A4.png)
-
 
 ## Reroute node
 

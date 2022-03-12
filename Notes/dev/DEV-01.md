@@ -7,3 +7,7 @@
 ![](../images/DEV-01/DEV-01-A2.png)
 
 ![](../images/DEV-01/DEV-01-A3.png)
+
+## All current addons
+
+![](../images/DEV-01/DEV-01-A4.png)

@@ -1,6 +1,6 @@
-# DEV-06,
+# DEV-06, Basics Particle Set up
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/32577650>]
 
 ![](../images/DEV-06/DEV-06-A1.png)
 
@@ -22,3 +22,14 @@
 
 ![](../images/DEV-06/DEV-06-A10.png)
 
+![](../images/DEV-06/DEV-06-A11.png)
+
+![](../images/DEV-06/DEV-06-A12.png)
+
+![](../images/DEV-06/DEV-06-A13.png)
+
+![](../images/DEV-06/DEV-06-A14.png)
+
+## resources
+<https://polyhaven.com/a/spruit_sunrise>
+<https://www.blendswap.com/blend/16492>
