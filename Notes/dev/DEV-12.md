@@ -1,24 +1,21 @@
-# DEV-12,
+# DEV-12, Adding Second rock material
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/29431168>]
+
+## Decrease the Hue of the current rock texture
 
 ![](../images/DEV-12/DEV-12-A1.png)
 
+## Fuse multiple rock types
+
 ![](../images/DEV-12/DEV-12-A2.png)
 
-![](../images/DEV-12/DEV-12-A3.png)
+## resources
 
-![](../images/DEV-12/DEV-12-A4.png)
+  stripped rock
 
-![](../images/DEV-12/DEV-12-A5.png)
+<https://ambientcg.com/view?id=Rock033>
 
-![](../images/DEV-12/DEV-12-A6.png)
+  blue rock
 
-![](../images/DEV-12/DEV-12-A7.png)
-
-![](../images/DEV-12/DEV-12-A8.png)
-
-![](../images/DEV-12/DEV-12-A9.png)
-
-![](../images/DEV-12/DEV-12-A10.png)
-
+<https://ambientcg.com/view?id=Rock035>
