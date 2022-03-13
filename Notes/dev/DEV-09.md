@@ -1,6 +1,6 @@
-# DEV-09,
+# DEV-09, Displacement Modifier with Texture
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/29431128>]
 
 ![](../images/DEV-09/DEV-09-A1.png)
 
@@ -21,4 +21,3 @@
 ![](../images/DEV-09/DEV-09-A9.png)
 
 ![](../images/DEV-09/DEV-09-A10.png)
-

@@ -1,24 +1,11 @@
-# DEV-07,
+# DEV-07, Basic Camera set up
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/34459237>]
 
 ![](../images/DEV-07/DEV-07-A1.png)
 
 ![](../images/DEV-07/DEV-07-A2.png)
 
-![](../images/DEV-07/DEV-07-A3.png)
+![](../images/DEV-07/DEV-07-B1.png)
 
-![](../images/DEV-07/DEV-07-A4.png)
-
-![](../images/DEV-07/DEV-07-A5.png)
-
-![](../images/DEV-07/DEV-07-A6.png)
-
-![](../images/DEV-07/DEV-07-A7.png)
-
-![](../images/DEV-07/DEV-07-A8.png)
-
-![](../images/DEV-07/DEV-07-A9.png)
-
-![](../images/DEV-07/DEV-07-A10.png)
-
+![](../images/DEV-07/DEV-07-B2.png)

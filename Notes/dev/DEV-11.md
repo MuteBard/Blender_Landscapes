@@ -1,6 +1,6 @@
-# DEV-11,
+# DEV-11, Blending Snow & Rocks
 ### Tags: []
-### Link:[<>]
+### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/29431161>]
 
 ![](../images/DEV-11/DEV-11-A1.png)
 
@@ -16,9 +16,6 @@
 
 ![](../images/DEV-11/DEV-11-A7.png)
 
-![](../images/DEV-11/DEV-11-A8.png)
+## resources
 
-![](../images/DEV-11/DEV-11-A9.png)
-
-![](../images/DEV-11/DEV-11-A10.png)
-
+<https://ambientcg.com/view?id=Rock028>

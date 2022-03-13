@@ -30,6 +30,18 @@
 
 ![](../images/DEV-06/DEV-06-A14.png)
 
+## Using weight maps
+
+![](../images/DEV-06/DEV-06-B1.png)
+
+![](../images/DEV-06/DEV-06-B2.png)
+
+![](../images/DEV-06/DEV-06-B3.png)
+
+![](../images/DEV-06/DEV-06-B4.png)
+
+  This might be useful for making hair or fur coats
+
 ## resources
 <https://polyhaven.com/a/spruit_sunrise>
 <https://www.blendswap.com/blend/16492>
